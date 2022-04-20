@@ -1,2 +1,2 @@
-# Aula-Bootstrap
-Pequeno projeto utilizando HTML5, CSS3 e Bootstrap
+# Aula de Bootstrap
+Primeira aula utilizando  Bootstrap, criando uma página estática com HTML5 e CSS3, junto com Bootstrap.
